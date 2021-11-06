@@ -1,9 +1,10 @@
 # FreshBlends
 
-##Our website provides all the information about the variety of
+## Our website provides all the information about the variety of
 smoothie flavours we offer and also provides nutrition contents of our
 smoothies.
-##Here are some of different flavors we provide,
+
+## Here are some of different flavors we provide,
 ● Green smoothie
 ● Breakfast smoothie
 ● Creamy/frosty smoothie
