@@ -1,8 +1,6 @@
 # FreshBlends
 
-## Our website provides all the information about the variety of
-smoothie flavours we offer and also provides nutrition contents of our
-smoothies.
+## Our website provides all the information about the variety of smoothie flavours we offer and also provides nutrition contents of our smoothies.
 
 ## Here are some of different flavors we provide,
 ● Green smoothie
@@ -23,6 +21,5 @@ smoothies.
 ● Magic
 ● Fat burning smoothie
 ● Frozen smoothie
-This feature is added to attract smoothie lovers to fulfill all their
-requirements in a healthy manner.
+### This feature is added to attract smoothie lovers to fulfill all their requirements in a healthy manner.
 
